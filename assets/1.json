@@ -1,0 +1,19 @@
+{
+    "name": "SF",
+    "symbol": "T",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "D3EbjdVsk19zs6tG5DDcc9jJxRXZ1ooXyU4MRstMxd7K",
+          "share": 100
+        }
+      ]
+    }
+  }

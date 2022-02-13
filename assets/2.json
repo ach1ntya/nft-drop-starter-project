@@ -1,0 +1,19 @@
+{
+    "name": "beach",
+    "symbol": "B",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "D3EbjdVsk19zs6tG5DDcc9jJxRXZ1ooXyU4MRstMxd7K",
+          "share": 100
+        }
+      ]
+    }
+  }
